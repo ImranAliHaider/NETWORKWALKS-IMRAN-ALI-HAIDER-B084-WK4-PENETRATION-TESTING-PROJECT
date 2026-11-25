@@ -173,13 +173,10 @@ The experience reinforced the importance of ethical conduct, proper authorizatio
 ### M1 – Initial Access
 Target website and discovered entry points.
 
-<img width="1366" height="768" alt="Whatweb and nslookup" src="https://github.com/user-attachments/assets/a4f9ea5d-2517-4c95-aba2-9c60be22f8b7" />
-<img width="1366" height="768" alt="wafwoof and curl -I" src="https://github.com/user-attachments/assets/1d3601f0-edc5-470d-992d-10aacea31bd8" />
-<img width="1366" height="768" alt="nmap scan sv" src="https://github.com/user-attachments/assets/7253c72c-6f8b-4cf6-8e16-61393f014d52" />
+
 
 Patient login form.
 
-<img width="1366" height="768" alt="patient potal" src="https://github.com/user-attachments/assets/7f7671a6-c1ad-45ff-b727-d2f41e5e891a" />
 
 SQL injection-related error.
 <img width="1366" height="768" alt="Patient portal" src="https://github.com/user-attachments/assets/9827e79b-a48b-47d3-a89f-416e204de92b" />
@@ -187,14 +184,11 @@ SQL injection-related error.
 
 #### M2 – Data Extraction
 Three recovered PDF files.
-<img width="1366" height="768" alt="patient_report_1_unlocked pdf" src="https://github.com/user-attachments/assets/1da8a805-5521-4fdb-a74f-33545ab5f56a" />
-<img width="1366" height="768" alt="patient_report_2_Unlocked pdf" src="https://github.com/user-attachments/assets/d5f1aab8-e238-4bc7-a355-cfd5f8b5782f" />
-<img width="1366" height="768" alt="patient_report_3_unlocked pdf" src="https://github.com/user-attachments/assets/98963eed-55ec-4b85-984c-764139a581c0" />
 
 
 
 PDF password recovery evidence.
-<img width="1366" height="768" alt="John the reaper cracking psswd 2" src="https://github.com/user-attachments/assets/ad714b3c-e00a-481e-9bf6-d3753a97fc79" />
+
 
 PDF metadata examination.
 <img width="1366" height="768" alt="exiftool results" src="https://github.com/user-attachments/assets/84e47239-dcb9-4760-b0a3-88fd21a7d233" />
@@ -210,7 +204,7 @@ Accessible SQL database backup.
 
 
 employee salary table evidence.
-<img width="1366" height="768" alt="SQL querry salary results" src="https://github.com/user-attachments/assets/c4595e26-ef34-4d91-86e7-6d5a5a992ca8" />
+
 
 shareholder table evidence.
 
