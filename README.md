@@ -213,7 +213,6 @@ employee salary table evidence.
 <img width="1366" height="768" alt="SQL querry salary results" src="https://github.com/user-attachments/assets/c4595e26-ef34-4d91-86e7-6d5a5a992ca8" />
 
 shareholder table evidence.
-<img width="1366" height="768" alt="SQL query stakeholders details" src="https://github.com/user-attachments/assets/939e89ef-20fa-4eab-97a7-d4b330422c81" />
 
 ---
 END OF REPORT
