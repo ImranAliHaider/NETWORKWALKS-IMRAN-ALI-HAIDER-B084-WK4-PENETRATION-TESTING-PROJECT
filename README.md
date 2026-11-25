@@ -173,8 +173,9 @@ The experience reinforced the importance of ethical conduct, proper authorizatio
 ### M1 – Initial Access
 Target website and discovered entry points.
 
-
-
+![Who](01_WHOIS_DNS_Lookup.jpeg)
+![Who](02_Nmap_WAF_Check.jpeg)
+![Who](03_curl.jpeg)
 Patient login form.
 
 
