@@ -174,47 +174,71 @@ The experience reinforced the importance of ethical conduct, proper authorizatio
 Target website and discovered entry points.
 
 ![Who](01_WHOIS_DNS_Lookup.jpeg)
+
 ![Who](02_Nmap_WAF_Check.jpeg)
+
 ![Who](03_curl.jpeg)
+
 Patient login form.
 
+![Who](04_Patient_login_form.png)
+
+![Who](04_Patient_login_form_01.png)
 
 SQL injection-related error.
+
 <img width="1366" height="768" alt="Patient portal" src="https://github.com/user-attachments/assets/9827e79b-a48b-47d3-a89f-416e204de92b" />
 
 
 #### M2 – Data Extraction
 Three recovered PDF files.
 
+![Who](05_pdf_01.png)
+
+![Who](05_pdf_02.png)
+
+![Who](05_pdf_03.png)
 
 
 PDF password recovery evidence.
 
+![Who](06_Password_Recovery_01.jpeg)
+
+![Who](06_Password_Recovery_02.PNG)
+
+![Who](06_Password_Recovery_03.PNG)
+
 
 PDF metadata examination.
+
 <img width="1366" height="768" alt="exiftool results" src="https://github.com/user-attachments/assets/84e47239-dcb9-4760-b0a3-88fd21a7d233" />
 
 
 ### M3 – Further Data Exposure
 Exposed directory listing.
+
 <img width="1366" height="768" alt="directory listing" src="https://github.com/user-attachments/assets/d8fc5365-0a07-414e-87c4-7fb300fc1aea" />
 
 
 Accessible SQL database backup.
+
 <img width="1366" height="768" alt="backup database" src="https://github.com/user-attachments/assets/6d83c74f-dec0-43c9-972b-22c13c158b3b" />
 
 
 employee salary table evidence.
 
+![Who](07_Employee_Salary_Table_Evidence.png)
 
 shareholder table evidence.
 
+![Who](08_Shareholder_Table_Evidence.png)
+
 ---
 END OF REPORT
-| Author:| Kondwani Ngwenya |
+| Author:| Imran Ali Haider |
 | :--- | :--- |
 | Program: |  Cybersecurity Program – Networkwalks |
-| Batch | B083 |
+| Batch | B084 |
 | Project: | Week 4 – Penetration Testing Project | 
 | Instructor: | Waqas Karim (CCIE) | 
 | Organization: | Networkwalks | 
